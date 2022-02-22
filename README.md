@@ -2,7 +2,7 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Estou em busca da primeira oportunidade de trabalho na parte de back-end;
-- 💻 Faço faculdade de Ciênicas da Computação e tenho experiência com a linguagem Java e c#;
+- 💻 Faço faculdade de Ciências da Computação e tenho experiência com a linguagem Java e C#;
 - 🆔 Pronomes: Ela/Dela.
 
 <div align="center">
