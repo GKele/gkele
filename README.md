@@ -1,7 +1,7 @@
 ## Olá, me chamo Geize Kele! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Estou em busca da primeira oportunidade de trabalho na parte de back-end;
+- 🔭 Estagiária na parte de back-end;
 - 💻 Faço faculdade de Ciências da Computação e tenho experiência com a linguagem Java e C#;
 - 🆔 Pronomes: Ela/Dela.
 
