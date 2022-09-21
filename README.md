@@ -1,8 +1,8 @@
-## Olá, me chamo Geize Kele! 
+## Hello Stranger! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Estagiária na parte de back-end;
-- 💻 Faço faculdade de Ciências da Computação e tenho experiência com a linguagem Java e SQL;
+- 💻 Estagiária na parte de back-end;
+- ☕ Faço faculdade de Ciências da Computação e tenho experiência com a linguagem Java e SQL;
 
 <div align="center">
   <a href="https://github.com/gkele">
