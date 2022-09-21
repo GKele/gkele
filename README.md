@@ -2,8 +2,7 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Estagiária na parte de back-end;
-- 💻 Faço faculdade de Ciências da Computação e tenho experiência com a linguagem Java e C#;
-- 🆔 Pronomes: Ela/Dela.
+- 💻 Faço faculdade de Ciências da Computação e tenho experiência com a linguagem Java e SQL;
 
 <div align="center">
   <a href="https://github.com/gkele">
