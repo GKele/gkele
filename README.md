@@ -1,8 +1,8 @@
 ## Hello Stranger! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-- 💻 Estagiária na parte de back-end;
-- ☕ Faço faculdade de Ciências da Computação e tenho experiência com a linguagem Java e SQL;
+- 💻 Estagiária back-end com Java na IBM;
+- ☕ Graduanda em Ciências da Computação e tenho experiências com a linguagem Java e SQL;
  
   <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkele&layout=compact&langs_count=7&theme=radical"/>
